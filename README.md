@@ -11,6 +11,7 @@ Instrucciones
 El usuario cuenta con un filtro por año, en la esquina superior izquierda de la visualización, que le permitirá ver la distribución de los productos por departamento, que fueron exportados durante los años 2016, 2017 y lo que va del 2018. El usuario también podrá ver los resultados por peso (en toneladas) o por precio (en dólares) de los productos que fueron exportados, gracias a las casillas tipo “radio button”, ubicadas en la esquina superior derecha de la gráfica. Al modificarlas, la visualización cambiará el área de los recuadros de acuerdo al atributo escogido. La visualización cuenta también con un tooltip que ofrece información, del departamento, producto, peso y precio de cada uno de los productos, si se pasa el mouse por los recuadros.
 
 WHAT
+
 Los datos escogidos para la visualización provienen de una Tabla. El DataSet representa un Árbol, en donde los papás son los departamentos del país y los hijos (nodos u hojas) corresponden a los productos que comercializa o exporta cada departamento.
 
     Variables
@@ -22,6 +23,7 @@ Los datos escogidos para la visualización provienen de una Tabla. El DataSet re
     Precio: Ordenado – Cuantitativo – Secuencial
 
 WHY
+
     Summarize Features
     Resumir la distribución de la cantidad (ya sea en peso o en precio) de los principales productos que se producen para exportación en Colombia.
     Identify Extremes
