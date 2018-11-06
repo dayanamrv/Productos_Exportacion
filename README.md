@@ -10,6 +10,8 @@ Instrucciones
 
 El usuario cuenta con un filtro por año, en la esquina superior izquierda de la visualización, que le permitirá ver la distribución de los productos por departamento, que fueron exportados durante los años 2016, 2017 y lo que va del 2018. El usuario también podrá ver los resultados por peso (en toneladas) o por precio (en dólares) de los productos que fueron exportados, gracias a las casillas tipo “radio button”, ubicadas en la esquina superior derecha de la gráfica. Al modificarlas, la visualización cambiará el área de los recuadros de acuerdo al atributo escogido. La visualización cuenta también con un tooltip que ofrece información, del departamento, producto, peso y precio de cada uno de los productos, si se pasa el mouse por los recuadros.
 
+![alt text](https://i.imgur.com/EZuMT7X.png)
+
 WHAT
 
 Los datos escogidos para la visualización provienen de una Tabla. El DataSet representa un Árbol, en donde los papás son los departamentos del país y los hijos (nodos u hojas) corresponden a los productos que comercializa o exporta cada departamento.
@@ -35,16 +37,16 @@ A partir del filtro de "años", el usuario podrá comparar el resumen de la dist
 
 HOW
 
-    Marcas
-    Áreas: Representan los productos
-    Canales
-    Color Hue: Representa los departamentos
-    Separate: Cada producto(leaf) esta separada una de otra
-    Order: Los productos se encuentran ordenados de mayor a menor
-    Manipulate
-    Change: El usuario puede seleccionar en el radio button si desea ver la gráfica por peso o por precio, y la visualización cambiará de acuerdo a ello
-    Reduce
-    Filter: El resumen de la distribución de los productos podrá ser filtrada por año
+* Marcas
+Áreas: Representan los productos
+* Canales
+Color Hue: Representa los departamentos
+Separate: Cada producto(leaf) esta separada una de otra
+Order: Los productos se encuentran ordenados de mayor a menor
+* Manipulate
+Change: El usuario puede seleccionar en el radio button si desea ver la gráfica por peso o por precio, y la visualización cambiará de acuerdo a ello
+* Reduce
+Filter: El resumen de la distribución de los productos podrá ser filtrada por año
 
 Insights: 
 * El principal producto de exportación de Colombia durante los últimos 3 años sigue siendo el Café, al menos por precio, pero en realidad, exportamos más cantidad de bananos al exterior, aunque de este último no recibimos la misma retribución económica.
@@ -61,4 +63,4 @@ Clarify Design
 Este proyecto se publica bajo la licencia MIT
 
 
-![alt text](https://i.imgur.com/EZuMT7X.png)
+
