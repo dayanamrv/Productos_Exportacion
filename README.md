@@ -24,16 +24,17 @@ Los datos escogidos para la visualización provienen de una Tabla. El DataSet re
 
 WHY
 
-    Summarize Features
-    Resumir la distribución de la cantidad (ya sea en peso o en precio) de los principales productos que se producen para exportación en Colombia.
-    Identify Extremes
-    Al ser un TreeMap, esta visualización nos permite identificar el producto que más se vende y el que menos se vende (de acuerdo a su peso o a su precio) en el exterior.
-    Explore Features
-    La visualización permite al usuario la exploración de datos a tráves de sus interacciones, utilizando los filtros de años, y de peso o precio.
-    Compare Features
-    A partir del filtro de "años", el usuario podrá comparar el resumen de la distribución de los productos más y menos vendidos durante los últimos tres años. 
+* Summarize Features
+Resumir la distribución de la cantidad (ya sea en peso o en precio) de los principales productos que se producen para exportación en Colombia.
+* Identify Extremes
+Al ser un TreeMap, esta visualización nos permite identificar el producto que más se vende y el que menos se vende (de acuerdo a su peso o a su precio) en el exterior.
+* Explore Features
+La visualización permite al usuario la exploración de datos a tráves de sus interacciones, utilizando los filtros de años, y de peso o precio.
+* Compare Features
+A partir del filtro de "años", el usuario podrá comparar el resumen de la distribución de los productos más y menos vendidos durante los últimos tres años. 
 
 HOW
+
     Marcas
     Áreas: Representan los productos
     Canales
@@ -60,4 +61,4 @@ Clarify Design
 Este proyecto se publica bajo la licencia MIT
 
 
-![alt text](https://i.imgur.com/427oSZP.png)
+![alt text](https://i.imgur.com/EZuMT7X.png)
