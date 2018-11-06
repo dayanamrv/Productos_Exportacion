@@ -1,0 +1,515 @@
+anio,departamento,producto,toneladas,precio
+2018,Risaralda,Café,31728.66,100065.33
+2018,Bogotá,Café,5194.56,20258.39
+2018,Tolima,Café,11693.34,45967.73
+2018,Quindío,Café,31492.57,104324.67
+2018,Antioquia,Café,51209.60,191952.87
+2018,Caldas,Café,75855.28,284413.46
+2018,Valle del Cauca,Café,17269.57,61298.38
+2018,Cundinamarca,Café,12159.43,40558.42
+2018,Magdalena,Café,4114.06,15914.20
+2018,Santander,Café,17479.14,56965.33
+2018,Huila,Café,45378.84,148065.46
+2018,Cauca,Café,13100.58,43499.89
+2018,Bolívar,Café,23.73,137.53
+2018,Cesar,Café,402.42,1226.39
+2018,Atlántico,Café,59.39,197.47
+2018,Nariño,Café,2110.03,7213.24
+2018,Norte de Santander,Café,86.64,255.62
+2018,Caquetá,Café,29.82,117.48
+2018,Boyacá,Café,39.30,139.89
+2018,Meta,Café,12.19,102.45
+2017,Bogotá,Café,21609.34,89003.94
+2017,Quindío,Café,67001.12,240874.69
+2017,Risaralda,Café,85607.44,293266.48
+2017,Antioquia,Café,113305.21,456685.85
+2017,Cauca,Café,26805.04,98276.75
+2017,Huila,Café,115508.71,402568.08
+2017,Cundinamarca,Café,18158.99,66944.84
+2017,Valle del Cauca,Café,41679.30,157842.47
+2017,Caldas,Café,151110.98,619179.96
+2017,Tolima,Café,30711.81,128626.01
+2017,Magdalena,Café,10982.36,45056.72
+2017,Santander,Café,40493.58,140741.21
+2017,Cesar,Café,623.45,2150.21
+2017,Nariño,Café,12594.20,47798.79
+2017,Bolívar,Café,218.56,948.47
+2017,Boyacá,Café,2.42,11.63
+2017,Arauca,Café,41.27,345.69
+2017,Norte de Santander,Café,1597.03,5634.38
+2017,Atlántico,Café,0.07,0.43
+2017,Córdoba,Café,17.50,63.81
+2017,Putumayo,Café,38.43,134.28
+2017,Casanare,Café,19.28,86.05
+2017,Caquetá,Café,59.74,228.83
+2016,Bogotá,Café,47074.26,160049.59
+2016,Valle del Cauca,Café,36914.80,128089.11
+2016,Tolima,Café,37433.70,148167.83
+2016,Antioquia,Café,119722.41,443220.62
+2016,Caldas,Café,111287.31,456647.53
+2016,Quindío,Café,76815.04,255887.83
+2016,Magdalena,Café,9230.84,37784.00
+2016,Santander,Café,38167.05,120195.40
+2016,Risaralda,Café,110690.99,349643.24
+2016,Huila,Café,119760.28,396062.49
+2016,Cauca,Café,33527.49,115233.04
+2016,Cesar,Café,663.69,2485.98
+2016,Norte de Santander,Café,1714.54,5532.58
+2016,Nariño,Café,12257.60,43584.32
+2016,Cundinamarca,Café,1406.51,10017.59
+2016,Guaviare,Café,19.23,74.60
+2016,Boyacá,Café,19.27,66.44
+2016,Sucre,Café,8.73,28.49
+2016,Atlántico,Café,58.63,208.44
+2016,Bolívar,Café,30.46,108.66
+2016,Putumayo,Café,39.81,118.14
+2016,La Guajira,Café,17.45,53.47
+2018,Antioquia,Bananos,581053.68,265131.35
+2018,Bogotá,Bananos,99.41,288.68
+2018,Cundinamarca,Bananos,749.52,990.11
+2018,Magdalena,Bananos,286934.73,132839.61
+2018,Sucre,Bananos,78.75,42.26
+2018,Valle del Cauca,Bananos,6.23,96.62
+2018,Bolívar,Bananos,42.32,23.37
+2018,Atlántico,Bananos,52.35,32.49
+2017,Bogotá,Bananos,288.42,582.49
+2018,Caldas,Bananos,0.04,0.08
+2018,,Bananos,0.01,0.16
+2017,Antioquia,Bananos,1275520.59,570833.08
+2017,Tolima,Bananos,0.01,0.00
+2017,Cundinamarca,Bananos,620.06,1681.79
+2017,Putumayo,Bananos,0.00,0.00
+2017,Magdalena,Bananos,602080.22,281402.61
+2017,Atlántico,Bananos,307.22,194.83
+2016,Bogotá,Bananos,211.47,644.83
+2017,Valle del Cauca,Bananos,12.59,128.77
+2017,Caldas,Bananos,0.14,0.39
+2016,Antioquia,Bananos,1315046.32,603528.82
+2016,Cundinamarca,Bananos,520.40,1630.69
+2016,Magdalena,Bananos,521119.32,249048.30
+2016,Valle del Cauca,Bananos,1.35,30.06
+2016,Caldas,Bananos,11.77,22.82
+2016,Norte de Santander,Bananos,0.01,0.00
+2016,Cesar,Bananos,817.82,416.80
+2016,Sucre,Bananos,43.20,23.65
+2018,Bogotá,Flores,20080.74,121227.18
+2018,Cundinamarca,Flores,9624.29,71229.01
+2018,Antioquia,Flores,9756.87,41238.09
+2017,Cundinamarca,Flores,57865.60,394346.04
+2017,Bogotá,Flores,120193.53,730188.27
+2017,Antioquia,Flores,49631.01,212042.79
+2018,Quindío,Flores,0.01,0.02
+2018,Boyacá,Flores,25.13,121.88
+2018,Risaralda,Flores,0.05,0.13
+2018,Magdalena,Flores,8.64,31.05
+2018,Valle del Cauca,Flores,127.41,434.10
+2018,Bolívar,Flores,65.21,187.09
+2018,Atlántico,Flores,69.06,371.59
+2018,Caldas,Flores,0.10,0.26
+2017,Boyacá,Flores,94.41,456.39
+2017,Caldas,Flores,12.25,32.71
+2017,Risaralda,Flores,7.55,49.35
+2017,Magdalena,Flores,23.44,82.40
+2017,Valle del Cauca,Flores,986.52,3027.18
+2017,Atlántico,Flores,261.92,136.23
+2017,Quindío,Flores,3.01,12.21
+2017,Bolívar,Flores,315.49,1601.61
+2017,Córdoba,Flores,20.03,5.62
+2016,Bogotá,Flores,118949.50,702185.41
+2016,Cundinamarca,Flores,50160.15,338744.03
+2016,Caldas,Flores,15.08,42.72
+2016,Antioquia,Flores,48428.93,208160.34
+2016,Boyacá,Flores,222.88,1038.16
+2016,Magdalena,Flores,440.07,1887.26
+2016,Valle del Cauca,Flores,798.10,2375.61
+2016,Atlántico,Flores,52.15,68.46
+2016,Risaralda,Flores,13.16,95.06
+2016,Bolívar,Flores,50.00,252.00
+2016,Nariño,Flores,6.75,30.35
+2018,Valle del Cauca,Piñas,3843.06,2432.37
+2018,Cesar,Piñas,419.59,216.81
+2018,Caldas,Piñas,41.31,409.36
+2018,Risaralda,Piñas,6.61,12.56
+2018,Antioquia,Piñas,2964.78,1347.09
+2018,Bolívar,Piñas,4.59,3.86
+2018,Santander,Piñas,46.42,30.97
+2018,Bogotá,Piñas,170.84,290.66
+2018,Atlántico,Piñas,5.89,11.95
+2018,Cundinamarca,Piñas,103.89,110.51
+2018,Quindío,Piñas,0.03,0.47
+2017,Valle del Cauca,Piñas,7153.04,4268.97
+2017,Bogotá,Piñas,623.91,1225.71
+2017,Putumayo,Piñas,0.00,0.00
+2017,Cesar,Piñas,1010.27,529.82
+2017,Caldas,Piñas,81.30,597.63
+2017,Antioquia,Piñas,7238.61,3754.09
+2017,Risaralda,Piñas,66.13,253.84
+2017,Magdalena,Piñas,21.48,21.16
+2017,Atlántico,Piñas,23.55,22.51
+2017,Santander,Piñas,48.01,34.17
+2017,Cauca,Piñas,5.06,3.47
+2017,Bolívar,Piñas,2.65,4.22
+2017,Norte de Santander,Piñas,115.70,875.48
+2017,Cundinamarca,Piñas,171.57,178.04
+2017,Quindío,Piñas,4.00,45.39
+2016,Valle del Cauca,Piñas,7054.25,3935.09
+2016,Bogotá,Piñas,465.44,1921.77
+2016,Magdalena,Piñas,28.76,34.43
+2016,Cesar,Piñas,721.59,395.50
+2016,Caldas,Piñas,37.46,77.16
+2016,Risaralda,Piñas,25.09,44.83
+2016,Antioquia,Piñas,7056.01,4036.10
+2016,Santander,Piñas,21.42,18.78
+2016,Atlántico,Piñas,8.18,17.18
+2016,Cundinamarca,Piñas,0.53,18.20
+2016,Bolívar,Piñas,0.04,2.07
+2016,Norte de Santander,Piñas,2.81,1.71
+2018,Valle del Cauca,Arroz,0.30,0.28
+2018,Norte de Santander,Arroz,690.00,873.00
+2018,Atlántico,Arroz,477.42,310.32
+2018,Bogotá,Arroz,55.68,59.11
+2018,Bolívar,Arroz,9.80,7.40
+2017,Bolívar,Arroz,4.00,2.88
+2017,La Guajira,Arroz,104.40,79.34
+2017,Magdalena,Arroz,0.02,0.05
+2017,Atlántico,Arroz,8.00,9.00
+2017,Antioquia,Arroz,0.01,0.02
+2016,Bogotá,Arroz,5.00,4.48
+2016,Atlántico,Arroz,0.02,0.03
+2018,Bogotá,Yuca,41.70,58.33
+2018,Boyacá,Yuca,45.18,65.02
+2018,Antioquia,Yuca,4.47,5.79
+2018,Valle del Cauca,Yuca,70.08,94.50
+2018,Atlántico,Yuca,0.24,0.08
+2018,Caldas,Yuca,0.04,0.06
+2018,Bolívar,Yuca,1.30,1.30
+2018,Santander,Yuca,0.14,0.09
+2017,Bogotá,Yuca,62.03,86.81
+2017,Boyacá,Yuca,50.01,70.33
+2017,Valle del Cauca,Yuca,233.29,317.74
+2017,Antioquia,Yuca,1.29,26.81
+2017,Sucre,Yuca,111.31,68.39
+2017,Caldas,Yuca,1.70,3.27
+2017,Magdalena,Yuca,0.01,0.00
+2017,Cundinamarca,Yuca,0.05,0.08
+2016,Antioquia,Yuca,9.42,9.41
+2016,Bogotá,Yuca,24.17,36.00
+2016,Boyacá,Yuca,18.07,25.29
+2016,Valle del Cauca,Yuca,241.02,320.90
+2016,Caldas,Yuca,1.76,3.31
+2016,Norte de Santander,Yuca,1.20,1.08
+2016,Cundinamarca,Yuca,0.13,0.20
+2018,Bogotá,Cacao,4109.69,16932.62
+2018,Risaralda,Cacao,0.25,4.61
+2018,Valle del Cauca,Cacao,1525.95,9265.94
+2017,Bogotá,Cacao,8194.91,35741.36
+2018,Antioquia,Cacao,3747.94,14944.91
+2018,Caldas,Cacao,414.04,1081.67
+2018,Cauca,Cacao,11.52,106.94
+2018,Santander,Cacao,2124.84,4661.79
+2018,Tolima,Cacao,76.06,165.67
+2018,Cundinamarca,Cacao,100.47,239.19
+2018,Huila,Cacao,404.11,958.31
+2018,Bolívar,Cacao,53.28,248.75
+2018,Atlántico,Cacao,0.09,0.49
+2018,Quindío,Cacao,0.06,1.53
+2017,Quindío,Cacao,0.01,0.17
+2017,Cauca,Cacao,55.42,508.16
+2017,Valle del Cauca,Cacao,4821.26,15884.71
+2017,Caldas,Cacao,2207.86,5443.45
+2017,Magdalena,Cacao,575.61,1689.94
+2017,Cundinamarca,Cacao,202.69,617.09
+2017,Antioquia,Cacao,7880.63,33316.14
+2017,Santander,Cacao,5537.28,11556.61
+2017,Huila,Cacao,2262.76,5336.12
+2017,Tolima,Cacao,151.81,363.20
+2017,Atlántico,Cacao,0.24,1.10
+2017,Nariño,Cacao,125.02,343.88
+2017,Bolívar,Cacao,3.08,27.21
+2016,Bogotá,Cacao,6692.75,32783.80
+2017,Risaralda,Cacao,0.32,0.91
+2017,Norte de Santander,Cacao,49.97,140.14
+2016,Cauca,Cacao,15.25,195.44
+2016,Caldas,Cacao,1184.68,2967.58
+2016,Nariño,Cacao,179.83,586.55
+2016,Valle del Cauca,Cacao,4779.64,39014.41
+2016,Cundinamarca,Cacao,179.68,566.93
+2016,Antioquia,Cacao,8141.63,35211.06
+2016,Huila,Cacao,2256.92,6958.46
+2016,Santander,Cacao,5740.54,16920.53
+2016,Risaralda,Cacao,0.46,1.79
+2016,Norte de Santander,Cacao,24.92,74.07
+2016,Atlántico,Cacao,2.92,7.02
+2016,Magdalena,Cacao,27.86,100.00
+2016,Bolívar,Cacao,4.87,30.51
+2016,Quindío,Cacao,0.25,1.81
+2016,Meta,Cacao,12.15,45.20
+2018,Antioquia,Mango ,473.62,832.54
+2018,Bogotá,Mango ,359.82,1246.94
+2018,Cundinamarca,Mango ,11.43,66.02
+2018,Valle del Cauca,Mango ,1376.48,1735.04
+2018,Risaralda,Mango ,63.65,107.64
+2018,Caldas,Mango ,568.41,614.59
+2018,Bolívar,Mango ,7.32,4.10
+2018,Santander,Mango ,17.79,18.01
+2018,Atlántico,Mango ,1.86,2.37
+2018,Cauca,Mango ,9.01,7.27
+2018,Tolima,Mango ,61.12,311.65
+2018,Meta,Mango ,4.44,14.77
+2018,Quindío,Mango ,0.03,0.47
+2017,Bogotá,Mango ,627.48,2286.74
+2017,Tolima,Mango ,7.84,41.32
+2017,Putumayo,Mango ,0.00,0.00
+2017,Valle del Cauca,Mango ,3741.11,4644.57
+2017,Caldas,Mango ,995.72,1043.71
+2017,Antioquia,Mango ,1270.11,2077.50
+2017,Cundinamarca,Mango ,68.76,377.21
+2017,Risaralda,Mango ,158.51,252.94
+2017,Bolívar,Mango ,6.42,11.20
+2017,Atlántico,Mango ,337.68,2853.79
+2017,Santander,Mango ,6.31,2.42
+2017,Cesar,Mango ,171.43,204.46
+2017,Magdalena,Mango ,1.06,1.79
+2016,Bogotá,Mango ,884.43,2031.62
+2017,Norte de Santander,Mango ,2.25,1.05
+2016,Cundinamarca,Mango ,34.22,150.88
+2016,Antioquia,Mango ,1047.15,1852.61
+2016,Valle del Cauca,Mango ,2925.00,3628.56
+2016,Caldas,Mango ,69.69,186.98
+2016,Risaralda,Mango ,177.61,298.14
+2016,Atlántico,Mango ,25.75,60.03
+2016,Cesar,Mango ,141.80,175.32
+2016,Magdalena,Mango ,0.86,1.51
+2016,Santander,Mango ,3.65,4.01
+2016,Bolívar,Mango ,0.04,2.07
+2016,Norte de Santander,Mango ,1.98,0.62
+2016,Tolima,Mango ,17.41,115.93
+2016,Córdoba,Mango ,19.20,20.07
+2018,Antioquia,Algodón,15267.07,153585.61
+2018,Atlántico,Algodón,2228.25,12170.52
+2018,Bogotá,Algodón,6806.79,69272.35
+2018,Cundinamarca,Algodón,569.37,5680.03
+2018,Risaralda,Algodón,491.37,7289.44
+2018,Valle del Cauca,Algodón,689.78,28715.62
+2018,Santander,Algodón,89.47,2693.59
+2018,Bolívar,Algodón,736.24,4363.91
+2018,Norte de Santander,Algodón,295.99,921.99
+2017,Antioquia,Algodón,34263.12,341962.95
+2018,Caldas,Algodón,22.30,518.14
+2018,Tolima,Algodón,1.85,99.23
+2018,San Andrés,Algodón,0.00,0.02
+2018,Nariño,Algodón,3.49,16.79
+2018,Quindío,Algodón,0.03,2.63
+2018,Cauca,Algodón,2.99,60.41
+2018,Arauca,Algodón,0.14,37.05
+2017,Caldas,Algodón,174.06,2190.34
+2017,Bogotá,Algodón,18309.19,165505.79
+2017,Cundinamarca,Algodón,2047.56,21223.58
+2017,Valle del Cauca,Algodón,1738.63,77175.32
+2018,La Guajira,Algodón,0.01,0.29
+2017,Norte de Santander,Algodón,632.07,3271.61
+2017,Risaralda,Algodón,1073.29,14672.75
+2017,Atlántico,Algodón,7274.16,48265.21
+2017,Santander,Algodón,363.80,6991.55
+2017,Bolívar,Algodón,1236.82,7989.24
+2017,Cauca,Algodón,32.81,87.54
+2017,Tolima,Algodón,4.48,189.28
+2017,Nariño,Algodón,5.97,33.56
+2017,Quindío,Algodón,0.13,5.27
+2017,La Guajira,Algodón,32.00,160.00
+2017,San Andrés,Algodón,0.08,5.37
+2017,Cesar,Algodón,5.95,15.88
+2016,Antioquia,Algodón,32658.83,321994.40
+2016,Bogotá,Algodón,19212.48,171958.48
+2016,Santander,Algodón,610.88,7173.66
+2016,Risaralda,Algodón,1409.63,15846.57
+2016,Valle del Cauca,Algodón,2211.43,87843.83
+2017,Boyacá,Algodón,0.07,8.03
+2017,Casanare,Algodón,0.19,2.34
+2017,Arauca,Algodón,0.22,17.59
+2016,Cundinamarca,Algodón,1319.33,13403.57
+2017,Meta,Algodón,0.00,0.45
+2017,Guainía,Algodón,0.06,5.04
+2016,Norte de Santander,Algodón,524.82,4235.85
+2016,Atlántico,Algodón,6915.02,54954.96
+2016,Caldas,Algodón,270.39,2451.98
+2016,Bolívar,Algodón,403.20,3717.15
+2016,Tolima,Algodón,1078.15,1643.97
+2016,Sucre,Algodón,6.66,9.00
+2016,Meta,Algodón,1.78,58.53
+2016,Cauca,Algodón,23.31,24.48
+2016,Nariño,Algodón,12.55,292.05
+2016,Quindío,Algodón,0.06,4.37
+2016,San Andrés,Algodón,0.21,13.88
+2016,Boyacá,Algodón,2.15,18.47
+2016,Chocó,Algodón,0.00,0.05
+2016,Caquetá,Algodón,0.00,0.01
+2018,Bogotá,Aguacates,523.71,1230.75
+2018,Cundinamarca,Aguacates,80.33,186.99
+2018,Antioquia,Aguacates,9122.68,21462.49
+2018,Risaralda,Aguacates,3654.80,8712.33
+2018,Valle del Cauca,Aguacates,1569.79,2681.58
+2018,Quindío,Aguacates,88.77,166.15
+2018,Bolívar,Aguacates,649.83,1172.09
+2018,Sucre,Aguacates,3.46,6.91
+2018,Atlántico,Aguacates,3.40,6.74
+2018,Santander,Aguacates,135.40,346.56
+2018,Cesar,Aguacates,0.75,0.89
+2018,Magdalena,Aguacates,41.18,84.09
+2017,Bogotá,Aguacates,1342.72,2312.73
+2017,Risaralda,Aguacates,5555.96,11331.85
+2017,Magdalena,Aguacates,93.24,216.07
+2017,Antioquia,Aguacates,15522.78,28374.57
+2017,Quindío,Aguacates,486.79,1053.39
+2017,Valle del Cauca,Aguacates,4473.76,7609.12
+2017,Bolívar,Aguacates,245.11,506.47
+2017,Cundinamarca,Aguacates,207.16,472.90
+2017,Santander,Aguacates,91.74,225.91
+2017,Caldas,Aguacates,369.60,700.13
+2017,Tolima,Aguacates,96.54,138.93
+2017,Cauca,Aguacates,0.54,1.54
+2016,Cundinamarca,Aguacates,916.67,1524.32
+2016,Risaralda,Aguacates,3912.72,8101.17
+2016,Antioquia,Aguacates,9479.77,18146.68
+2016,Caldas,Aguacates,1216.76,2251.46
+2016,Santander,Aguacates,82.11,175.13
+2016,Bogotá,Aguacates,1294.96,2446.56
+2016,Quindío,Aguacates,805.04,1606.48
+2016,Bolívar,Aguacates,42.05,82.61
+2016,Valle del Cauca,Aguacates,392.05,637.53
+2016,Atlántico,Aguacates,0.20,0.36
+2016,Norte de Santander,Aguacates,2.11,1.13
+2016,Córdoba,Aguacates,56.19,66.80
+2018,Bogotá,Maíz,3100.70,5275.27
+2018,Antioquia,Maíz,4474.59,6176.02
+2018,Cundinamarca,Maíz,3140.33,4835.49
+2018,Valle del Cauca,Maíz,9386.86,7681.85
+2018,Cauca,Maíz,432.00,287.24
+2018,Tolima,Maíz,3.50,20.44
+2018,Atlántico,Maíz,4453.58,3395.48
+2018,Santander,Maíz,42.51,61.04
+2018,Bolívar,Maíz,782.93,455.48
+2017,Cundinamarca,Maíz,4119.75,8433.28
+2018,Nariño,Maíz,24.00,14.93
+2017,Atlántico,Maíz,2738.54,2226.98
+2017,Antioquia,Maíz,5959.97,8836.35
+2017,Bogotá,Maíz,2555.23,5739.99
+2017,Valle del Cauca,Maíz,25337.21,17545.12
+2017,Bolívar,Maíz,243.21,152.93
+2017,La Guajira,Maíz,1614.89,3017.04
+2017,Santander,Maíz,182.70,138.65
+2017,Norte de Santander,Maíz,200.45,130.33
+2017,Caldas,Maíz,0.04,0.06
+2017,Tolima,Maíz,7.00,28.16
+2017,Sucre,Maíz,20.20,20.20
+2016,Cundinamarca,Maíz,4310.32,8326.79
+2016,Valle del Cauca,Maíz,20696.09,24623.70
+2016,Bogotá,Maíz,1183.07,2354.27
+2016,Magdalena,Maíz,99.92,74.53
+2016,Antioquia,Maíz,5683.86,6587.06
+2016,Cauca,Maíz,12.00,16.20
+2016,Atlántico,Maíz,2212.45,1605.68
+2016,Caldas,Maíz,0.05,0.08
+2016,Bolívar,Maíz,808.45,292.11
+2016,Santander,Maíz,29.40,40.65
+2016,Norte de Santander,Maíz,23.08,33.82
+2016,Tolima,Maíz,8.65,35.72
+2018,Bogotá,Papa,268.19,793.16
+2018,Valle del Cauca,Papa,57.74,154.48
+2018,Risaralda,Papa,25.56,64.75
+2018,Santander,Papa,171.71,95.62
+2018,Antioquia,Papa,54.04,158.06
+2018,Atlántico,Papa,3.79,5.45
+2018,Cundinamarca,Papa,4.98,9.51
+2018,Caldas,Papa,1.31,3.44
+2018,Bolívar,Papa,1.90,2.47
+2017,Bogotá,Papa,767.34,1449.72
+2017,Boyacá,Papa,1.09,2.64
+2017,Valle del Cauca,Papa,399.40,1070.33
+2017,Risaralda,Papa,45.78,137.98
+2017,Antioquia,Papa,115.06,345.76
+2017,Cundinamarca,Papa,19.96,36.48
+2017,Santander,Papa,302.78,165.18
+2017,Bolívar,Papa,0.22,2.23
+2017,Caldas,Papa,3.36,8.57
+2017,Atlántico,Papa,4.29,5.97
+2017,Norte de Santander,Papa,400.00,300.00
+2016,Valle del Cauca,Papa,305.97,841.70
+2017,Magdalena,Papa,0.51,0.68
+2016,Bogotá,Papa,367.44,1019.65
+2016,Atlántico,Papa,72.17,39.93
+2016,Risaralda,Papa,84.77,224.78
+2016,Antioquia,Papa,104.64,307.35
+2016,Caldas,Papa,3.78,8.97
+2016,Cundinamarca,Papa,0.64,0.94
+2016,Norte de Santander,Papa,0.80,0.46
+2016,Santander,Papa,0.60,0.33
+2016,Bolívar,Papa,3.60,8.07
+2018,Bogotá,Caucho ,668.40,4820.99
+2018,Antioquia,Caucho ,670.71,3637.29
+2018,Cauca,Caucho ,9.82,84.38
+2018,Bolívar,Caucho ,148.74,274.82
+2018,Cundinamarca,Caucho ,136.86,688.04
+2018,Valle del Cauca,Caucho ,6227.43,21711.19
+2018,Santander,Caucho ,327.80,527.60
+2018,Risaralda,Caucho ,0.55,4.54
+2018,Atlántico,Caucho ,14.56,103.05
+2018,Nariño,Caucho ,4.90,5.35
+2018,Norte de Santander,Caucho ,2.53,5.91
+2018,Caldas,Caucho ,1.44,8.61
+2018,Magdalena,Caucho ,0.56,1.23
+2018,La Guajira,Caucho ,0.01,0.52
+2017,Bogotá,Caucho ,1996.81,13144.97
+2017,Valle del Cauca,Caucho ,8371.81,33286.31
+2017,Antioquia,Caucho ,1347.88,7140.71
+2017,Cundinamarca,Caucho ,312.98,2210.26
+2017,Santander,Caucho ,349.81,690.42
+2017,Nariño,Caucho ,5.45,19.33
+2017,Caldas,Caucho ,2.90,25.13
+2017,Atlántico,Caucho ,187.69,819.64
+2017,Cauca,Caucho ,51.52,359.92
+2017,Norte de Santander,Caucho ,65.03,117.30
+2017,Magdalena,Caucho ,1.65,23.83
+2017,La Guajira,Caucho ,0.16,4.59
+2017,Bolívar,Caucho ,48.10,389.21
+2017,Risaralda,Caucho ,0.19,8.38
+2017,Boyacá,Caucho ,0.51,8.68
+2017,Casanare,Caucho ,0.00,0.00
+2017,Meta,Caucho ,20.00,19.47
+2017,Cesar,Caucho ,147.41,29.37
+2016,Bogotá,Caucho ,1560.22,11702.51
+2016,Cundinamarca,Caucho ,314.25,2257.84
+2016,Antioquia,Caucho ,1321.67,7219.23
+2016,Valle del Cauca,Caucho ,6983.31,28949.82
+2016,Atlántico,Caucho ,263.59,798.10
+2016,Caldas,Caucho ,9.51,100.78
+2016,Bolívar,Caucho ,66.55,418.18
+2016,Norte de Santander,Caucho ,107.72,189.25
+2016,Santander,Caucho ,144.21,335.13
+2016,Risaralda,Caucho ,4.30,52.48
+2016,Magdalena,Caucho ,52.89,86.48
+2016,Cauca,Caucho ,66.71,379.96
+2016,Cesar,Caucho ,181.92,112.70
+2016,Meta,Caucho ,0.00,0.18
+2016,Nariño,Caucho ,0.13,0.39
+2016,Tolima,Caucho ,0.01,0.03
+2016,Tolima,Aves y Huevos,197.19,1691.87
+2016,Valle del Cauca,Aves y Huevos,270.00,345.70
+2016,Bogotá,Aves y Huevos,14.93,69.05
+2016,Cundinamarca,Aves y Huevos,0.02,0.07
+2017,Tolima,Aves y Huevos,193.88,1502.01
+2017,Bolívar,Pescado,3304.38,23015.98
+2016,Bolívar,Pescado,2472.62,17324.67
+2016,Cundinamarca,Pescado,218.33,1855.21
+2016,Huila,Pescado,3422.63,25942.02
+2016,Bogotá,Pescado,1456.33,11422.32
+2016,Risaralda,Pescado,210.63,1433.70
+2016,Valle del Cauca,Pescado,865.47,6024.70
+2016,Antioquia,Pescado,449.22,3696.08
+2017,Cundinamarca,Pescado,210.23,1759.34
+2017,Huila,Pescado,3884.16,28071.86
+2017,Antioquia,Pescado,759.32,6293.09
+2017,Bogotá,Pescado,1379.32,10241.87
+2017,Valle del Cauca,Pescado,777.99,5945.83
+2017,Nariño,Pescado,9.00,2.45
+2017,Atlántico,Pescado,1.07,8.36

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<meta charset="UTF-8">
+	<title>The head tittle</title>
+
+	<!-- Zona de Estilos -->
+	<link rel="stylesheet" href="resources/css/style.css" />
+	<link rel="stylesheet" href="resources/css/clr-ui.min.css" />
+	<link rel="stylesheet" href="https://unpkg.com/@clr/icons@0.13.4/clr-icons.min.css" />
+	
+
+</head>
+<body>
+	
+	<div class="main-container">
+		<!---------------------------------Zona de Cabecera-------------------------------------->
+	    <header class="header-8">
+	        <div class="branding">
+			    <clr-icon  class="icono" shape="tree-view"></clr-icon>
+			    <span class="title_ppal">¿Si es el café nuestro principal producto de exportación?</span>
+			</div>
+	    </header>
+	    
+	    <!---------------------------------Zona de Contenido------------------------------------->
+	    <div class="content-container">
+	        <div class="content-area">
+	            
+	            <div class="clr-row">
+
+	            	<div class="clr-col-md-3">
+
+				        <span class = "title">OBJETIVO: </span>
+				        <span><p ALIGN="justify">La visualización que se presenta a continuación pretende mostrar el resumen de los principales productos, (de acuerdo a su peso y/o precio), que se producen en los departamentos de Colombia y que son exportados al exterior del país.<p></span>
+				        <br>
+				        <span class = "title">DESCRIPCIÓN: </span>
+				        <br><span><p ALIGN="justify">La gráfica de la derecha contiene: 1) Recuadros que representan los productos producidos o comercializados en el país. 2)Los colores, representan los departamentos  comercializadores y/o productores. 3)El tamaño de las áreas de los recuadros es proporcional al peso (toneladas) o al precio anual del producto. (dependiendo de la selección del usuario)<p></span>
+
+				    </div>
+				    
+
+				    <!---------------------------------Sección de la VIZ------------------------------------->
+				    <div class=" clr-col-md-9">
+						  
+					  	
+					  	<span style="color:#006668; font-weight:bold" >Seleccione un año </span>
+					    <div class="clr-select-wrapper"> 
+					      <select id="select-full" class="clr-select" >
+					        <option value="2016">2016</option>
+					        <option value="2017">2017</option>
+					        <option value="2018">2018</option>
+					      </select>
+						</div>
+
+						<clr-radio-container clrInline style="position: relative; left: 500px;">
+						    <input type="radio" clrRadio name="options" id="peso" onclick="changeRadio()" checked="checked" required value="option1" [(ngModel)]="options" />
+						    <label>Peso (toneladas)</label>
+						    <input type="radio" clrRadio name="options" id="precio" onclick="changeRadio()" required value="option2" [(ngModel)]="options" />
+						    <label>Precio (Dólares)</label>
+						</clr-radio-container>
+
+						
+						<br>
+						<br>
+
+				    	<svg id = "tree" class = "viz" width = "960", height ="455"></svg>
+
+				    </div>
+
+
+				    <!--------------------------Sección de Instrucciones y Objetivo-------------------------------->
+				    <div class="clr-col-md-12">
+				    	<br>
+				        <span class = "title">INSTRUCCIONES:</span>
+				        <br><span><p ALIGN="justify">El usuario cuenta con un filtro por año, en la esquina superior izquierda de la visualización, que le permitirá ver la distribución de los productos por departamento, que fueron exportados durante los años 2016, 2017 y lo que va del 2018.
+						El usuario también podrá ver los resultados por peso (en toneladas) o por precio (en dólares) de los productos que fueron exportados, gracias a las casillas tipo “radio button”, ubicadas en la esquina superior derecha de la gráfica.  Al modificarlas, la  visualización cambiará el área de los recuadros de acuerdo al atributo escogido. 
+						La visualización cuenta también con un tooltip que ofrece información, del departamento, producto, peso y precio de cada uno de los productos, si se pasa el mouse por los recuadros.
+						</p></span>
+				    </div>
+				   
+					<!---------------------------------Sección TAMARA------------------------------------->
+				    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+				        <div class="card">
+				            <div class="card-header">
+				                WHAT
+				            </div>
+				            <div class="card-block">
+				                <div class="card-text">
+				                     <p ALIGN="justify">Los datos escogidos para la visualización provienen de una Tabla. El DataSet representa un Árbol, en donde los papás son los departamentos del país y los hijos (nodos u hojas) corresponden a los productos que comercializa o exporta cada departamento.</p>
+				                    <h4>Variables</h4>
+				                    <br>
+				                    <ul>
+		  								<li>Departamento:  Categórica</li>
+			  						    <li>Producto: Categórica</li>
+			  						    <li>Año: Ordenado – Ordinal – Secuencial</li>
+			  						    <li>Peso: Ordenado – Cuantitativo – Secuencial</li>
+			  						    <li>Precio: Ordenado – Cuantitativo – Secuencial</li>
+									</ul>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+
+				    <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12">
+				        <div class="card">
+				            <div class="card-header">
+				                WHY
+				            </div>
+				            <div class="card-block">
+				                <div class="card-text">
+				                    <h5>Summarize Features</h5>
+				                	Resumir la distribución de la cantidad (ya sea en peso o en precio) de los principales productos que se producen para exportación en Colombia. 
+
+				                	<h5>Identify Extremes</h5>
+				                	Al ser un TreeMap, esta visualización nos permite identificar el producto que más se vende y el que menos se vende (de acuerdo a su peso o a su precio) en el exterior.
+				                    
+				                    <h5>Explore Features</h5>
+				                	La visualización permite al usuario la exploración de datos a tráves de sus interacciones, utilizando los filtros de años, y de peso o precio. 
+
+				                    <h5>Compare Features</h5>
+				                	A partir del filtro de "años", el usuario podrá comparar el resumen de la distribución de los productos más y menos vendidos durante los últimos tres años.
+				                	<br>
+				                	<br>
+				                	<br>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+
+				    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+				        <div class="card">
+				            <div class="card-header">
+				                HOW
+				            </div>
+				            <div class="card-block">
+				                <div class="card-text">
+				                    <h6>Marcas</h6>
+				                    <ul>
+		  								<li>Áreas: Representan los productos</li>
+									</ul>
+									<h6>Canales</h6>
+				                    <ul>
+		  								<li>Color Hue: Representa los departamentos</li>
+			  						    <li>Separate: Cada producto(leaf) esta separada una de otra</li>
+			  						    <li>Order: Los productos se encuentran ordenados de mayor a menor</li>
+									</ul>
+									<h6>Manipulate</h6>
+				                    <ul>
+		  								<li>Change: El usuario puede seleccionar en el radio button si desea ver la gráfica por peso o por precio, y la visualización cambiará de acuerdo a ello</li>
+									</ul>
+									<h6>Reduce</h6>
+				                    <ul>
+		  								<li>Filter: El resumen de la distribución de los productos podrá ser filtrada por año</li>
+									</ul>
+									<br>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+
+				    <!---------------------------------Sección INSIGHTS y Tecnologías------------------------------------->
+				    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+				        <div class="card">
+				            <div class="card-header">
+				                INSIGHTS
+				            </div>
+				            <div class="card-block">
+				                <div class="card-text">
+				                	<ul>
+		  								<li>El principal producto de exportación de Colombia durante los últimos 3 años sigue siendo el Café, al menos por precio, pero en realidad, exportamos más cantidad de bananos al exterior, aunque de este último no recibimos la misma retribución económica.</li>
+			  						    <li>Al parecer Antioquia es el departamento de Colombia que más productos agrícolas produce para exportación.</li>
+			  						    <li>La Yuca es el producto con menos popularidad dentro de nuestros países compradores, tanto por precio como por peso. Al parecer no se consume mucho en exterior.</li>
+			  						    <li>El departamento del Huila ha venido bajando la venta de Café durante los últimos tres años. </li>
+			  						    <li>Antioquia y Magdalena son nuestros principales productores de Bananos para exportación.</li>
+									</ul>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+				    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+				        <div class="card">
+				            <div class="card-header">
+				                TECNOLOGIAS
+				            </div>
+				            <div class="card-block">
+				                <div class="card-text">
+				                	<ul>
+										<li type="circle"><button class="btn btn-info btn-sm">D3</button></li>
+			  						    <li type="circle"><button class="btn btn-info btn-sm">JavaScript</button></li>
+			  						    <li type="circle"><button class="btn btn-info btn-sm">Clarity Framework</button></li>
+			  						    <br>
+									</ul>				                    
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+
+				    <div class ="textos"><h6>* Este proyecto se publica bajo la licencia MIT</h6><div> 
+				    <div ><h6>* Los datos fueron tomados de https://www.datos.gov.co. Se realizó una agregación de 15 datasets. La Cadena productiva de 15 productos, como: café, bananos, flores, caucho, cacao, yuca, papa, pescados, aves, etc.</h6><div> 
+				</div>
+	        </div>
+	    </div>
+	</div>
+
+
+
+    <!-- Zona de Scripts -->
+	<script src="https://unpkg.com/@clr/icons@0.13.4/clr-icons.min.js"></script>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script charset="utf-8" type="text/javascript" src="resources/js/main.js"></script>
+
+</body>
+</html>
